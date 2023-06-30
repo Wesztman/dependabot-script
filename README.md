@@ -1,6 +1,3 @@
-### _WARNING - Scripts are Currently Broken_
-_We recently refactored the monolithic docker image used within the [Dependabot Core][dependabot-core] library into one-image-per-ecosystem. Unfortunately, that broke the scripts in this repo, and we haven't had time to update them yet. We are aware of the problem and hope to provide a solution soon._
-
 # Dependabot Script
 
 This repo is a collection of scripts to use as entrypoints to the [Dependabot Core][dependabot-core] library. It is intended as a starting point for advanced users to run a self-hosted version of Dependabot within their own projects.
